@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-10T11:25:03Z" name="Default suite" finished-at="2019-07-10T11:25:04Z" duration-ms="344">
+    <groups>
+    </groups>
+    <test started-at="2019-07-10T11:25:03Z" name="Default test" finished-at="2019-07-10T11:25:04Z" duration-ms="344">
+      <class name="basictests.BasicTest">
+        <test-method signature="verifysum()[pri:0, instance:basictests.BasicTest@770c2e6b]" started-at="2019-07-10T11:25:03Z" name="verifysum" finished-at="2019-07-10T11:25:04Z" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysum -->
+      </class> <!-- basictests.BasicTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
